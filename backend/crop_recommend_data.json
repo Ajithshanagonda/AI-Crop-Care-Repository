@@ -1,0 +1,338 @@
+[
+  {
+    "cropName": "Rice",
+    "growingDurationMonths": 5,
+    "profitability": "High",
+    "weather": "Rainy",
+    "imageUrl": "https://www.apnikheti.com/upload/organic/1974idea99organic-rice1.jpg",
+    "careInstructions": [
+      "Choose Ideal Climate & Soil – Thrives in warm, humid climates with clayey or alluvial soils.",
+      "Plant Healthy Seedlings – Use certified seeds and transplant seedlings with proper spacing.",
+      "Provide Irrigation – Maintain consistent water levels, crucial during tillering and flowering.",
+      "Apply Fertilizers & Mulch – Use balanced NPK fertilizers and organic mulch to boost yield.",
+      "Control Pests & Diseases – Monitor for rice blast and stem borer; use integrated pest management."
+    ]
+  },
+  {
+    "cropName": "Wheat",
+    "growingDurationMonths": 5,
+    "profitability": "High",
+    "weather": "Dry",
+    "imageUrl": "https://cdn.britannica.com/90/94190-050-C0BA6A58/Cereal-crops-wheat-reproduction.jpg?w=400&h=300&c=crop",
+    "careInstructions": [
+      "Choose Ideal Climate & Soil – Best in cool, dry climates with well-drained loamy soil.",
+      "Plant Healthy Seeds – Use high-quality, disease-free seeds with optimal seeding rate.",
+      "Provide Adequate Irrigation – Water during critical growth phases, avoiding waterlogging.",
+      "Apply Fertilizers & Mulch – Incorporate nitrogen-rich fertilizers and organic compost.",
+      "Control Pests & Weeds – Implement timely herbicide application and pest monitoring."
+    ]
+  },
+  {
+    "cropName": "Maize",
+    "growingDurationMonths": 4,
+    "profitability": "Medium",
+    "weather": "Warm",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Corn_on_the_cob.jpg",
+    "careInstructions": [
+      "Choose Ideal Climate & Soil – Prefers warm temperatures and fertile, well-drained soils.",
+      "Plant Healthy Seeds – Use certified seeds and follow recommended row spacing.",
+      "Provide Adequate Irrigation – Ensure consistent moisture, especially during flowering.",
+      "Apply Fertilizers & Mulch – Use balanced fertilizers and mulching to conserve soil moisture.",
+      "Control Pests & Weeds – Monitor for corn borer and apply appropriate pest control measures."
+    ]
+  },
+  {
+    "cropName": "Cotton",
+    "growingDurationMonths": 7,
+    "profitability": "High",
+    "weather": "Hot",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Cotton_bolls.jpg/1200px-Cotton_bolls.jpg",
+    "careInstructions": [
+      "Choose Ideal Climate & Soil – Grows best in hot climates with well-drained, sandy loam soils.",
+      "Plant Healthy Seedlings – Use quality cotton seedlings with proper spacing.",
+      "Provide Irrigation – Regular watering during flowering and boll formation is crucial.",
+      "Apply Fertilizers & Mulch – Use potassium-rich fertilizers and organic compost for vigor.",
+      "Control Pests & Diseases – Monitor for bollworm and use integrated pest management techniques."
+    ]
+  },
+  {
+    "cropName": "Sugarcane",
+    "growingDurationMonths": 15,
+    "profitability": "High",
+    "weather": "Tropical",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Sugarcane_field.jpg",
+    "careInstructions": [
+      "Choose Ideal Climate & Soil – Thrives in tropical climates with rich, alluvial soils.",
+      "Plant Healthy Setts – Use disease-free setts with proper spacing for robust growth.",
+      "Provide Adequate Irrigation – Ensure consistent moisture without causing waterlogging.",
+      "Apply Fertilizers & Mulch – Use a mix of NPK fertilizers and organic matter for best results.",
+      "Control Pests & Diseases – Manage borers and fungal issues with regular monitoring."
+    ]
+  },
+  {
+    "cropName": "Barley",
+    "growingDurationMonths": 4,
+    "profitability": "Medium",
+    "weather": "Cool",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Barley.jpg/1200px-Barley.jpg",
+    "careInstructions": [
+      "Choose Ideal Climate & Soil – Prefers cool climates with well-drained sandy loam soils.",
+      "Plant Healthy Seeds – Use certified barley seeds at the recommended seeding depth.",
+      "Provide Adequate Irrigation – Supply water during germination and early growth stages.",
+      "Apply Fertilizers & Mulch – Use balanced fertilizers and organic mulch to enrich the soil.",
+      "Control Pests & Diseases – Monitor for fungal infections and pests; apply treatments as needed."
+    ]
+  },
+  {
+    "cropName": "Soybean",
+    "growingDurationMonths": 6,
+    "profitability": "Medium",
+    "weather": "Warm",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Soybean_close-up.jpg/1200px-Soybean_close-up.jpg",
+    "careInstructions": [
+      "Choose Ideal Climate & Soil – Best suited for warm climates with fertile, well-drained soils.",
+      "Plant Healthy Seeds – Use high-quality seeds and maintain proper spacing to avoid competition.",
+      "Provide Adequate Irrigation – Ensure consistent moisture, especially during pod formation.",
+      "Apply Fertilizers & Mulch – Use phosphorus-rich fertilizers and organic compost.",
+      "Control Pests & Diseases – Keep an eye on aphids and fungal issues; intervene with eco-friendly measures."
+    ]
+  },
+  {
+    "cropName": "Millet",
+    "growingDurationMonths": 3,
+    "profitability": "Low",
+    "weather": "Hot",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Millet.jpg",
+    "careInstructions": [
+      "Choose Ideal Climate & Soil – Grows well in hot, dry climates with sandy soils.",
+      "Plant Healthy Seeds – Use certified millet seeds and follow recommended spacing.",
+      "Provide Minimal Irrigation – Requires less water; focus on early growth moisture.",
+      "Apply Fertilizers & Mulch – Use light doses of fertilizers and organic mulch to retain moisture.",
+      "Control Pests & Weeds – Monitor for pests and manage weeds with manual or organic methods."
+    ]
+  },
+  {
+    "cropName": "Sorghum",
+    "growingDurationMonths": 4,
+    "profitability": "Medium",
+    "weather": "Dry",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Sorghum_bicolor.jpg/1200px-Sorghum_bicolor.jpg",
+    "careInstructions": [
+      "Choose Ideal Climate & Soil – Thrives in dry, warm climates with loamy or sandy soils.",
+      "Plant Healthy Seeds – Use high-quality seeds, ensuring proper row spacing.",
+      "Provide Adequate Irrigation – Irrigation is essential during the flowering phase.",
+      "Apply Fertilizers & Mulch – Use balanced fertilizers and organic compost to support growth.",
+      "Control Pests & Diseases – Watch for aphids and other pests; apply eco-friendly pesticides."
+    ]
+  },
+  {
+    "cropName": "Groundnut",
+    "growingDurationMonths": 5,
+    "profitability": "High",
+    "weather": "Warm",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Arachis_hypogaea.jpg/1200px-Arachis_hypogaea.jpg",
+    "careInstructions": [
+      "Choose Ideal Climate & Soil – Best in warm climates with sandy or red soils.",
+      "Plant Healthy Seeds – Use disease-free groundnut seeds with recommended spacing.",
+      "Provide Adequate Irrigation – Ensure consistent moisture during pod development.",
+      "Apply Fertilizers & Mulch – Use phosphorus-rich fertilizers along with organic mulch.",
+      "Control Pests & Diseases – Monitor for leaf spot and manage with integrated pest strategies."
+    ]
+  },
+  {
+    "cropName": "Pulses",
+    "growingDurationMonths": 6,
+    "profitability": "Medium",
+    "weather": "Mild",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Mixed_legumes.jpg/1200px-Mixed_legumes.jpg",
+    "careInstructions": [
+      "Choose Ideal Climate & Soil – Prefers mild climates with well-drained, fertile soils.",
+      "Plant Healthy Seeds – Use certified pulses seeds with proper row spacing.",
+      "Provide Adequate Irrigation – Water adequately during germination and early growth.",
+      "Apply Fertilizers & Mulch – Use balanced fertilizers to promote nodulation.",
+      "Control Pests & Diseases – Monitor for aphids and fungal infections; treat accordingly."
+    ]
+  },
+  {
+    "cropName": "Ragi",
+    "growingDurationMonths": 4,
+    "profitability": "High",
+    "weather": "Warm",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Finger_millet.jpg/1200px-Finger_millet.jpg",
+    "careInstructions": [
+      "Choose Ideal Climate & Soil – Thrives in warm climates with well-drained red or sandy soils.",
+      "Plant Healthy Seeds – Use high-quality ragi seeds with appropriate spacing.",
+      "Provide Adequate Irrigation – Ensure consistent moisture, especially during early stages.",
+      "Apply Fertilizers & Mulch – Use organic compost and balanced fertilizers.",
+      "Control Pests & Diseases – Keep an eye on pests and fungal issues; manage them promptly."
+    ]
+  },
+  {
+    "cropName": "Bajra",
+    "growingDurationMonths": 5,
+    "profitability": "Medium",
+    "weather": "Hot",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Pearl_millet.jpg/1200px-Pearl_millet.jpg",
+    "careInstructions": [
+      "Choose Ideal Climate & Soil – Grows best in hot, dry conditions with sandy soils.",
+      "Plant Healthy Seeds – Use quality bajra seeds with proper spacing to prevent overcrowding.",
+      "Provide Minimal Irrigation – Requires less water; focus on moisture conservation.",
+      "Apply Fertilizers & Mulch – Use light doses of fertilizers and organic matter.",
+      "Control Pests & Diseases – Monitor for pests and weeds; use organic treatments when necessary."
+    ]
+  },
+  {
+    "cropName": "Potato",
+    "growingDurationMonths": 4,
+    "profitability": "High",
+    "weather": "Cool",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Potato.jpg/1200px-Potato.jpg",
+    "careInstructions": [
+      "Choose Ideal Climate & Soil – Prefers cool climates with well-drained, loamy soils.",
+      "Plant Healthy Seed Tubers – Use certified seed potatoes at recommended spacing.",
+      "Provide Adequate Irrigation – Maintain consistent moisture during tuber formation.",
+      "Apply Fertilizers & Mulch – Use balanced fertilizers and organic mulch to enhance soil fertility.",
+      "Control Pests & Diseases – Monitor for blight and pests; apply integrated management strategies."
+    ]
+  },
+  {
+    "cropName": "Tomato",
+    "growingDurationMonths": 3,
+    "profitability": "High",
+    "weather": "Warm",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/89/Tomato_je.jpg",
+    "careInstructions": [
+      "Choose Ideal Climate & Soil – Thrives in warm climates with rich, well-drained loamy soils.",
+      "Plant Healthy Seedlings – Use quality transplants with proper spacing.",
+      "Provide Adequate Irrigation – Maintain consistent moisture while avoiding waterlogging.",
+      "Apply Fertilizers & Mulch – Use balanced fertilizers and organic compost.",
+      "Control Pests & Diseases – Watch for fungal infections and pests like whiteflies; manage promptly."
+    ]
+  },
+  {
+    "cropName": "Onion",
+    "growingDurationMonths": 4,
+    "profitability": "Medium",
+    "weather": "Cool",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Onion.jpg/1200px-Onion.jpg",
+    "careInstructions": [
+      "Choose Ideal Climate & Soil – Grows best in cool climates with well-drained, fertile soils.",
+      "Plant Healthy Seeds/Seedlings – Use certified seeds or sets with proper spacing.",
+      "Provide Adequate Irrigation – Ensure steady moisture during bulb formation.",
+      "Apply Fertilizers & Mulch – Use nitrogen-rich fertilizers and organic compost.",
+      "Control Pests & Diseases – Monitor for onion fly and fungal diseases; take timely action."
+    ]
+  },
+  {
+    "cropName": "Cabbage",
+    "growingDurationMonths": 4,
+    "profitability": "Medium",
+    "weather": "Cool",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Cabbage_and_leaves.jpg/1200px-Cabbage_and_leaves.jpg",
+    "careInstructions": [
+      "Choose Ideal Climate & Soil – Prefers cool climates with rich, loamy soils.",
+      "Plant Healthy Seedlings – Use quality transplants with sufficient spacing.",
+      "Provide Adequate Irrigation – Ensure consistent moisture without waterlogging.",
+      "Apply Fertilizers & Mulch – Use balanced fertilizers and organic mulch for soil enrichment.",
+      "Control Pests & Diseases – Monitor for aphids and cabbage worms; apply eco-friendly methods."
+    ]
+  },
+  {
+    "cropName": "Mustard",
+    "growingDurationMonths": 4,
+    "profitability": "High",
+    "weather": "Dry",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/White_mustard.jpg/1200px-White_mustard.jpg",
+    "careInstructions": [
+      "Choose Ideal Climate & Soil – Best grown in cool, dry climates with well-drained sandy soils.",
+      "Plant Healthy Seeds – Use high-quality seeds and follow recommended spacing.",
+      "Provide Adequate Irrigation – Water during key growth stages while avoiding excess moisture.",
+      "Apply Fertilizers & Mulch – Use nitrogen and sulfur-rich fertilizers combined with organic compost.",
+      "Control Pests & Diseases – Monitor for aphids and fungal infections; apply appropriate controls."
+    ]
+  },
+  {
+    "cropName": "Sunflower",
+    "growingDurationMonths": 4,
+    "profitability": "Medium",
+    "weather": "Sunny",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Sunflower_sky_backdrop.jpg/1200px-Sunflower_sky_backdrop.jpg",
+    "careInstructions": [
+      "Choose Ideal Climate & Soil – Thrives in sunny, warm climates with well-drained sandy loam.",
+      "Plant Healthy Seeds – Use certified seeds with proper spacing for optimal growth.",
+      "Provide Adequate Irrigation – Ensure regular moisture, especially during germination.",
+      "Apply Fertilizers & Mulch – Use balanced fertilizers and organic compost to support development.",
+      "Control Pests & Diseases – Monitor for pests like aphids and fungal issues; intervene as needed."
+    ]
+  },
+  {
+    "cropName": "Pea",
+    "growingDurationMonths": 3,
+    "profitability": "Medium",
+    "weather": "Mild",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Pea_pods.jpg/1200px-Pea_pods.jpg",
+    "careInstructions": [
+      "Choose Ideal Climate & Soil – Grows best in cool, mild climates with well-drained loamy soils.",
+      "Plant Healthy Seeds – Use quality seeds with enough spacing to encourage growth.",
+      "Provide Adequate Irrigation – Maintain consistent moisture, particularly during flowering.",
+      "Apply Fertilizers & Mulch – Use organic compost and balanced fertilizers for steady growth.",
+      "Control Pests & Diseases – Monitor for pests and fungal infections; treat as necessary."
+    ]
+  },
+  {
+    "cropName": "Garlic",
+    "growingDurationMonths": 5,
+    "profitability": "High",
+    "weather": "Cool",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Garlic.jpg/1200px-Garlic.jpg",
+    "careInstructions": [
+      "Choose Ideal Climate & Soil – Prefers cool climates with well-drained, fertile loamy soils.",
+      "Plant Healthy Cloves – Use fresh, disease-free cloves with proper spacing.",
+      "Provide Adequate Irrigation – Ensure consistent moisture during bulb development.",
+      "Apply Fertilizers & Mulch – Use balanced fertilizers and organic mulch to support growth.",
+      "Control Pests & Diseases – Monitor for pests and fungal infections; implement integrated controls."
+    ]
+  },
+  {
+    "cropName": "Ginger",
+    "growingDurationMonths": 5,
+    "profitability": "High",
+    "weather": "Tropical",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Ginger.jpg/1200px-Ginger.jpg",
+    "careInstructions": [
+      "Choose Ideal Climate & Soil – Thrives in tropical climates with rich, well-drained, loamy soils.",
+      "Plant Healthy Rhizomes – Use quality rhizomes with appropriate spacing.",
+      "Provide Adequate Irrigation – Maintain consistent moisture without causing waterlogging.",
+      "Apply Fertilizers & Mulch – Use balanced NPK fertilizers and organic compost.",
+      "Control Pests & Diseases – Monitor for root-knot nematodes and fungal issues; manage promptly."
+    ]
+  },
+  {
+    "cropName": "Banana",
+    "growingDurationMonths": 15,
+    "profitability": "High",
+    "weather": "Tropical",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Banana-Single.jpg/1200px-Banana-Single.jpg",
+    "careInstructions": [
+      "Choose Ideal Climate & Soil – Grows best in tropical climates with well-drained, fertile alluvial soils.",
+      "Plant Healthy Saplings – Use high-quality saplings, spacing them 8-10 feet apart.",
+      "Provide Adequate Irrigation – Ensure consistent moisture while preventing waterlogging.",
+      "Apply Fertilizers & Mulch – Use organic compost and balanced fertilizers to support fruiting.",
+      "Control Pests & Diseases – Monitor for banana weevils and fungal infections; use integrated management."
+    ]
+  },
+  {
+    "cropName": "Coffee",
+    "growingDurationMonths": 18,
+    "profitability": "High",
+    "weather": "Tropical",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Coffee_beans.jpg/1200px-Coffee_beans.jpg",
+    "careInstructions": [
+      "Choose Ideal Climate & Soil – Grows best in tropical regions with well-drained, fertile soil (pH 6-6.5).",
+      "Plant Healthy Seedlings – Use high-quality Arabica or Robusta seedlings, spacing them 5-8 feet apart.",
+      "Provide Shade & Irrigation – Partial shade is essential; ensure consistent moisture without waterlogging.",
+      "Apply Fertilizers & Mulch – Use organic compost along with nitrogen, phosphorus, and potassium-rich fertilizers.",
+      "Control Pests & Prune Regularly – Manage pests like coffee borer beetles and prune for better yield."
+    ]
+  }
+]

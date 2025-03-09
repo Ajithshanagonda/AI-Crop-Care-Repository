@@ -1,0 +1,2002 @@
+[
+  {
+    "duration": "January to March",
+    "durationMonths": 3,
+    "months": ["January", "February", "March"],
+    "state": "Andhra Pradesh",
+    "soilType": "Red Soil",
+    "cropName": "Tomato",
+    "profitability": "High"
+  },
+  {
+    "duration": "April to September",
+    "durationMonths": 6,
+    "months": ["April", "May", "June", "July", "August", "September"],
+    "state": "Maharashtra",
+    "soilType": "Black Soil",
+    "cropName": "Cotton",
+    "profitability": "Medium"
+  },
+  {
+    "duration": "October to January",
+    "durationMonths": 4,
+    "months": ["October", "November", "December", "January"],
+    "state": "Punjab",
+    "soilType": "Alluvial Soil",
+    "cropName": "Wheat",
+    "profitability": "High"
+  },
+  {
+    "duration": "June to November",
+    "durationMonths": 5,
+    "months": ["June", "July", "August", "September", "October", "November"],
+    "state": "Tamil Nadu",
+    "soilType": "Laterite Soil",
+    "cropName": "Groundnut",
+    "profitability": "Medium"
+  },
+  {
+    "duration": "July to September",
+    "durationMonths": 3,
+    "months": ["July", "August", "September"],
+    "state": "West Bengal",
+    "soilType": "Clay Soil",
+    "cropName": "Rice",
+    "profitability": "High"
+  },
+  {
+    "duration": "February to September",
+    "durationMonths": 8,
+    "months": ["February", "March", "April", "May", "June", "July", "August", "September"],
+    "state": "Karnataka",
+    "soilType": "Red Soil",
+    "cropName": "Sugarcane",
+    "profitability": "High"
+  },
+  {
+    "duration": "November to December",
+    "durationMonths": 2,
+    "months": ["November", "December"],
+    "state": "Uttar Pradesh",
+    "soilType": "Alluvial Soil",
+    "cropName": "Potato",
+    "profitability": "Medium"
+  },
+  {
+    "duration": "January to March",
+    "durationMonths": 3,
+    "months": ["January", "February", "March"],
+    "state": "Rajasthan",
+    "soilType": "Sandy Soil",
+    "cropName": "Bajra",
+    "profitability": "Medium"
+  },
+  {
+    "duration": "April to June",
+    "durationMonths": 3,
+    "months": ["April", "May", "June"],
+    "state": "Gujarat",
+    "soilType": "Black Soil",
+    "cropName": "Groundnut",
+    "profitability": "High"
+  },
+  {
+    "duration": "July to September",
+    "durationMonths": 3,
+    "months": ["July", "August", "September"],
+    "state": "Kerala",
+    "soilType": "Laterite Soil",
+    "cropName": "Coconut",
+    "profitability": "High"
+  },
+  {
+    "duration": "October to December",
+    "durationMonths": 3,
+    "months": ["October", "November", "December"],
+    "state": "Bihar",
+    "soilType": "Alluvial Soil",
+    "cropName": "Wheat",
+    "profitability": "High"
+  },
+  {
+    "duration": "January to March",
+    "durationMonths": 3,
+    "months": ["January", "February", "March"],
+    "state": "Odisha",
+    "soilType": "Red Soil",
+    "cropName": "Rice",
+    "profitability": "Medium"
+  },
+  {
+    "duration": "April to July",
+    "durationMonths": 4,
+    "months": ["April", "May", "June", "July"],
+    "state": "Assam",
+    "soilType": "Alluvial Soil",
+    "cropName": "Tea",
+    "profitability": "High"
+  },
+  {
+    "duration": "August to November",
+    "durationMonths": 4,
+    "months": ["August", "September", "October", "November"],
+    "state": "Haryana",
+    "soilType": "Sandy Loam Soil",
+    "cropName": "Wheat",
+    "profitability": "High"
+  },
+  {
+    "duration": "December to February",
+    "durationMonths": 3,
+    "months": ["December", "January", "February"],
+    "state": "Himachal Pradesh",
+    "soilType": "Mountain Soil",
+    "cropName": "Apple",
+    "profitability": "High"
+  },
+  {
+    "duration": "March to June",
+    "durationMonths": 4,
+    "months": ["March", "April", "May", "June"],
+    "state": "Jharkhand",
+    "soilType": "Red Soil",
+    "cropName": "Paddy",
+    "profitability": "Medium"
+  },
+  {
+    "duration": "July to October",
+    "durationMonths": 4,
+    "months": ["July", "August", "September", "October"],
+    "state": "Madhya Pradesh",
+    "soilType": "Black Soil",
+    "cropName": "Soybean",
+    "profitability": "High"
+  },
+  {
+    "duration": "November to January",
+    "durationMonths": 3,
+    "months": ["November", "December", "January"],
+    "state": "Chhattisgarh",
+    "soilType": "Red Soil",
+    "cropName": "Wheat",
+    "profitability": "Medium"
+  },
+  {
+    "duration": "February to April",
+    "durationMonths": 3,
+    "months": ["February", "March", "April"],
+    "state": "Uttarakhand",
+    "soilType": "Mountain Soil",
+    "cropName": "Tea",
+    "profitability": "High"
+  },
+  {
+    "duration": "May to July",
+    "durationMonths": 3,
+    "months": ["May", "June", "July"],
+    "state": "Sikkim",
+    "soilType": "Mountain Soil",
+    "cropName": "Cardamom",
+    "profitability": "High"
+  },
+  {
+    "duration": "August to October",
+    "durationMonths": 3,
+    "months": ["August", "September", "October"],
+    "state": "Arunachal Pradesh",
+    "soilType": "Mountain Soil",
+    "cropName": "Oranges",
+    "profitability": "High"
+  },
+  {
+    "duration": "November to January",
+    "durationMonths": 3,
+    "months": ["November", "December", "January"],
+    "state": "Manipur",
+    "soilType": "Alluvial Soil",
+    "cropName": "Rice",
+    "profitability": "Medium"
+  },
+  {
+    "duration": "February to April",
+    "durationMonths": 3,
+    "months": ["February", "March", "April"],
+    "state": "Nagaland",
+    "soilType": "Alluvial Soil",
+    "cropName": "Pineapple",
+    "profitability": "High"
+  },
+  {
+    "duration": "May to July",
+    "durationMonths": 3,
+    "months": ["May", "June", "July"],
+    "state": "Meghalaya",
+    "soilType": "Laterite Soil",
+    "cropName": "Ginger",
+    "profitability": "High"
+  },
+  {
+    "duration": "August to October",
+    "durationMonths": 3,
+    "months": ["August", "September", "October"],
+    "state": "Tripura",
+    "soilType": "Alluvial Soil",
+    "cropName": "Rubber",
+    "profitability": "High"
+  },
+  {
+    "duration": "November to January",
+    "durationMonths": 3,
+    "months": ["November", "December", "January"],
+    "state": "Mizoram",
+    "soilType": "Red Soil",
+    "cropName": "Bamboo",
+    "profitability": "Medium"
+  },
+  {
+    "duration": "February to April",
+    "durationMonths": 3,
+    "months": ["February", "March", "April"],
+    "state": "Goa",
+    "soilType": "Laterite Soil",
+    "cropName": "Cashew",
+    "profitability": "High"
+  },
+  {
+    "duration": "May to July",
+    "durationMonths": 3,
+    "months": ["May", "June", "July"],
+    "state": "Andaman and Nicobar Islands",
+    "soilType": "Coastal Soil",
+    "cropName": "Coconut",
+    "profitability": "High"
+  },
+    {
+    "duration": "January to March",
+    "durationMonths": 3,
+    "months": ["January", "February", "March"],
+    "state": "Telangana",
+    "soilType": "Red Soil",
+    "cropName": "Chili",
+    "profitability": "High"
+  },
+  {
+    "duration": "April to June",
+    "durationMonths": 3,
+    "months": ["April", "May", "June"],
+    "state": "Puducherry",
+    "soilType": "Coastal Alluvial Soil",
+    "cropName": "Banana",
+    "profitability": "High"
+  },
+  {
+    "duration": "July to September",
+    "durationMonths": 3,
+    "months": ["July", "August", "September"],
+    "state": "Chandigarh",
+    "soilType": "Alluvial Soil",
+    "cropName": "Wheat",
+    "profitability": "High"
+  },
+  {
+    "duration": "October to December",
+    "durationMonths": 3,
+    "months": ["October", "November", "December"],
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "soilType": "Coastal Soil",
+    "cropName": "Mango",
+    "profitability": "Medium"
+  },
+  {
+    "duration": "January to March",
+    "durationMonths": 3,
+    "months": ["January", "February", "March"],
+    "state": "Lakshadweep",
+    "soilType": "Coral Soil",
+    "cropName": "Coconut",
+    "profitability": "High"
+  },
+  {
+    "duration": "April to June",
+    "durationMonths": 3,
+    "months": ["April", "May", "June"],
+    "state": "Delhi",
+    "soilType": "Alluvial Soil",
+    "cropName": "Mustard",
+    "profitability": "Medium"
+  },
+  {
+    "duration": "July to September",
+    "durationMonths": 3,
+    "months": ["July", "August", "September"],
+    "state": "Puducherry",
+    "soilType": "Coastal Alluvial Soil",
+    "cropName": "Banana",
+    "profitability": "High"
+  },
+  {
+    "duration": "October to December",
+    "durationMonths": 3,
+    "months": ["October", "November", "December"],
+    "state": "Jammu and Kashmir",
+    "soilType": "Mountain Soil",
+    "cropName": "Apple",
+    "profitability": "High"
+  },
+  {
+    "duration": "January to March",
+    "durationMonths": 3,
+    "months": ["January", "February", "March"],
+    "state": "Telangana",
+    "soilType": "Red Soil",
+    "cropName": "Chili",
+    "profitability": "High"
+  },
+  {
+    "duration": "April to June",
+    "durationMonths": 3,
+    "months": ["April", "May", "June"],
+    "state": "Puducherry",
+    "soilType": "Coastal Alluvial Soil",
+    "cropName": "Banana",
+    "profitability": "High"
+  },
+  {
+    "duration": "July to September",
+    "durationMonths": 3,
+    "months": ["July", "August", "September"],
+    "state": "Chandigarh",
+    "soilType": "Alluvial Soil",
+    "cropName": "Wheat",
+    "profitability": "High"
+  },
+  {
+    "duration": "October to December",
+    "durationMonths": 3,
+    "months": ["October", "November", "December"],
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "soilType": "Coastal Soil",
+    "cropName": "Mango",
+    "profitability": "Medium"
+  },
+  {
+    "duration": "January to March",
+    "durationMonths": 3,
+    "months": ["January", "February", "March"],
+    "state": "Lakshadweep",
+    "soilType": "Coral Soil",
+    "cropName": "Coconut",
+    "profitability": "High"
+  },
+  {
+    "duration": "April to June",
+    "durationMonths": 3,
+    "months": ["April", "May", "June"],
+    "state": "Delhi",
+    "soilType": "Alluvial Soil",
+    "cropName": "Mustard",
+    "profitability": "Medium"
+  },
+  {
+    "duration": "July to September",
+    "durationMonths": 3,
+    "months": ["July", "August", "September"],
+    "state": "Puducherry",
+    "soilType": "Coastal Alluvial Soil",
+    "cropName": "Banana",
+    "profitability": "High"
+  },
+  {
+    "duration": "October to December",
+    "durationMonths": 3,
+    "months": ["October", "November", "December"],
+    "state": "Jammu and Kashmir",
+    "soilType": "Mountain Soil",
+    "cropName": "Apple",
+    "profitability": "High"
+  },
+  {
+    "duration": "January to March",
+    "durationMonths": 3,
+    "months": ["January", "February", "March"],
+    "state": "Telangana",
+    "soilType": "Red Soil",
+    "cropName": "Chili",
+    "profitability": "High"
+  },
+  {
+    "duration": "April to June",
+    "durationMonths": 3,
+    "months": ["April", "May", "June"],
+    "state": "Puducherry",
+    "soilType": "Coastal Alluvial Soil",
+    "cropName": "Banana",
+    "profitability": "High"
+  },
+  {
+    "duration": "July to September",
+    "durationMonths": 3,
+    "months": ["July", "August", "September"],
+    "state": "Chandigarh",
+    "soilType": "Alluvial Soil",
+    "cropName": "Wheat",
+    "profitability": "High"
+  },
+  {
+    "duration": "October to December",
+    "durationMonths": 3,
+    "months": ["October", "November", "December"],
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "soilType": "Coastal Soil",
+    "cropName": "Mango",
+    "profitability": "Medium"
+  },
+  {
+    "duration": "January to March",
+    "durationMonths": 3,
+    "months": ["January", "February", "March"],
+    "state": "Lakshadweep",
+    "soilType": "Coral Soil",
+    "cropName": "Coconut",
+    "profitability": "High"
+  },
+  {
+    "duration": "April to June",
+    "durationMonths": 3,
+    "months": ["April", "May", "June"],
+    "state": "Delhi",
+    "soilType": "Alluvial Soil",
+    "cropName": "Mustard",
+    "profitability": "Medium"
+  },
+  {
+    "duration": "July to September",
+    "durationMonths": 3,
+    "months": ["July", "August", "September"],
+    "state": "Puducherry",
+    "soilType": "Coastal Alluvial Soil",
+    "cropName": "Banana",
+    "profitability": "High"
+  },
+  {
+    "duration": "October to December",
+    "durationMonths": 3,
+    "months": ["October", "November", "December"],
+    "state": "Jammu and Kashmir",
+    "soilType": "Mountain Soil",
+    "cropName": "Apple",
+    "profitability": "High"
+  },
+  {
+    "duration": "January to March",
+    "durationMonths": 3,
+    "months": ["January", "February", "March"],
+    "state": "Telangana",
+    "soilType": "Red Soil",
+    "cropName": "Chili",
+    "profitability": "High"
+  },
+  {
+    "duration": "April to June",
+    "durationMonths": 3,
+    "months": ["April", "May", "June"],
+    "state": "Puducherry",
+    "soilType": "Coastal Alluvial Soil",
+    "cropName": "Banana",
+    "profitability": "High"
+  },
+  {
+    "duration": "July to September",
+    "durationMonths": 3,
+    "months": ["July", "August", "September"],
+    "state": "Chandigarh",
+    "soilType": "Alluvial Soil",
+    "cropName": "Wheat",
+    "profitability": "High"
+  },
+  {
+    "duration": "October to December",
+    "durationMonths": 3,
+    "months": ["October", "November", "December"],
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "soilType": "Coastal Soil",
+    "cropName": "Mango",
+    "profitability": "Medium"
+  },
+    {
+    "duration": "January to March",
+    "durationMonths": 3,
+    "months": ["January", "February", "March"],
+    "state": "Telangana",
+    "soilType": "Red Soil",
+    "cropName": "Chili",
+    "profitability": "High"
+  },
+  {
+    "duration": "April to June",
+    "durationMonths": 3,
+    "months": ["April", "May", "June"],
+    "state": "Telangana",
+    "soilType": "Black Soil",
+    "cropName": "Cotton",
+    "profitability": "Medium"
+  },
+  {
+    "duration": "July to September",
+    "durationMonths": 3,
+    "months": ["July", "August", "September"],
+    "state": "Telangana",
+    "soilType": "Clay Soil",
+    "cropName": "Rice",
+    "profitability": "High"
+  },
+  {
+    "duration": "October to December",
+    "durationMonths": 3,
+    "months": ["October", "November", "December"],
+    "state": "Andhra Pradesh",
+    "soilType": "Red Soil",
+    "cropName": "Tomato",
+    "profitability": "High"
+  },
+  {
+    "duration": "January to March",
+    "durationMonths": 3,
+    "months": ["January", "February", "March"],
+    "state": "Andhra Pradesh",
+    "soilType": "Black Soil",
+    "cropName": "Groundnut",
+    "profitability": "Medium"
+  },
+  {
+    "duration": "April to June",
+    "durationMonths": 3,
+    "months": ["April", "May", "June"],
+    "state": "Andhra Pradesh",
+    "soilType": "Clay Soil",
+    "cropName": "Rice",
+    "profitability": "High"
+  },
+  {
+    "duration": "July to September",
+    "durationMonths": 3,
+    "months": ["July", "August", "September"],
+    "state": "Karnataka",
+    "soilType": "Red Soil",
+    "cropName": "Sugarcane",
+    "profitability": "High"
+  },
+  {
+    "duration": "October to December",
+    "durationMonths": 3,
+    "months": ["October", "November", "December"],
+    "state": "Karnataka",
+    "soilType": "Black Soil",
+    "cropName": "Cotton",
+    "profitability": "Medium"
+  },
+  {
+    "duration": "January to March",
+    "durationMonths": 3,
+    "months": ["January", "February", "March"],
+    "state": "Karnataka",
+    "soilType": "Clay Soil",
+    "cropName": "Rice",
+    "profitability": "High"
+  },
+  {
+    "duration": "April to June",
+    "durationMonths": 3,
+    "months": ["April", "May", "June"],
+    "state": "Tamil Nadu",
+    "soilType": "Red Soil",
+    "cropName": "Groundnut",
+    "profitability": "Medium"
+  },
+  {
+    "duration": "July to September",
+    "durationMonths": 3,
+    "months": ["July", "August", "September"],
+    "state": "Tamil Nadu",
+    "soilType": "Laterite Soil",
+    "cropName": "Coconut",
+    "profitability": "High"
+  },
+  {
+    "duration": "October to December",
+    "durationMonths": 3,
+    "months": ["October", "November", "December"],
+    "state": "Tamil Nadu",
+    "soilType": "Clay Soil",
+    "cropName": "Rice",
+    "profitability": "High"
+  },
+  {
+    "duration": "January to March",
+    "durationMonths": 3,
+    "months": ["January", "February", "March"],
+    "state": "Maharashtra",
+    "soilType": "Black Soil",
+    "cropName": "Cotton",
+    "profitability": "Medium"
+  },
+  {
+    "duration": "April to June",
+    "durationMonths": 3,
+    "months": ["April", "May", "June"],
+    "state": "Maharashtra",
+    "soilType": "Red Soil",
+    "cropName": "Tomato",
+    "profitability": "High"
+  },
+  {
+    "duration": "July to September",
+    "durationMonths": 3,
+    "months": ["July", "August", "September"],
+    "state": "Maharashtra",
+    "soilType": "Clay Soil",
+    "cropName": "Rice",
+    "profitability": "High"
+  },
+  {
+    "duration": "October to December",
+    "durationMonths": 3,
+    "months": ["October", "November", "December"],
+    "state": "Gujarat",
+    "soilType": "Black Soil",
+    "cropName": "Groundnut",
+    "profitability": "Medium"
+  },
+  {
+    "duration": "January to March",
+    "durationMonths": 3,
+    "months": ["January", "February", "March"],
+    "state": "Gujarat",
+    "soilType": "Red Soil",
+    "cropName": "Tomato",
+    "profitability": "High"
+  },
+  {
+    "duration": "April to June",
+    "durationMonths": 3,
+    "months": ["April", "May", "June"],
+    "state": "Gujarat",
+    "soilType": "Clay Soil",
+    "cropName": "Rice",
+    "profitability": "High"
+  },
+  {
+    "duration": "July to September",
+    "durationMonths": 3,
+    "months": ["July", "August", "September"],
+    "state": "Rajasthan",
+    "soilType": "Sandy Soil",
+    "cropName": "Bajra",
+    "profitability": "Medium"
+  },
+  {
+    "duration": "October to December",
+    "durationMonths": 3,
+    "months": ["October", "November", "December"],
+    "state": "Rajasthan",
+    "soilType": "Red Soil",
+    "cropName": "Tomato",
+    "profitability": "High"
+  },
+  {
+    "duration": "January to March",
+    "durationMonths": 3,
+    "months": ["January", "February", "March"],
+    "state": "Rajasthan",
+    "soilType": "Clay Soil",
+    "cropName": "Rice",
+    "profitability": "High"
+  },
+  {
+    "duration": "April to June",
+    "durationMonths": 3,
+    "months": ["April", "May", "June"],
+    "state": "Punjab",
+    "soilType": "Alluvial Soil",
+    "cropName": "Wheat",
+    "profitability": "High"
+  },
+  {
+    "duration": "July to September",
+    "durationMonths": 3,
+    "months": ["July", "August", "September"],
+    "state": "Punjab",
+    "soilType": "Clay Soil",
+    "cropName": "Rice",
+    "profitability": "High"
+  },
+  {
+    "duration": "October to December",
+    "durationMonths": 3,
+    "months": ["October", "November", "December"],
+    "state": "Punjab",
+    "soilType": "Red Soil",
+    "cropName": "Tomato",
+    "profitability": "Medium"
+  },
+  {
+    "duration": "January to March",
+    "durationMonths": 3,
+    "months": ["January", "February", "March"],
+    "state": "Haryana",
+    "soilType": "Sandy Loam Soil",
+    "cropName": "Wheat",
+    "profitability": "High"
+  },
+  {
+    "duration": "April to June",
+    "durationMonths": 3,
+    "months": ["April", "May", "June"],
+    "state": "Haryana",
+    "soilType": "Clay Soil",
+    "cropName": "Rice",
+    "profitability": "High"
+  },
+  {
+    "duration": "July to September",
+    "durationMonths": 3,
+    "months": ["July", "August", "September"],
+    "state": "Haryana",
+    "soilType": "Red Soil",
+    "cropName": "Tomato",
+    "profitability": "Medium"
+  },
+  {
+    "duration": "October to December",
+    "durationMonths": 3,
+    "months": ["October", "November", "December"],
+    "state": "Uttar Pradesh",
+    "soilType": "Alluvial Soil",
+    "cropName": "Potato",
+    "profitability": "Medium"
+  },
+  {
+    "duration": "January to March",
+    "durationMonths": 3,
+    "months": ["January", "February", "March"],
+    "state": "Uttar Pradesh",
+    "soilType": "Clay Soil",
+    "cropName": "Rice",
+    "profitability": "High"
+  },
+    {
+    "duration": "April to June",
+    "durationMonths": 3,
+    "months": ["April", "May", "June"],
+    "state": "Uttar Pradesh",
+    "soilType": "Red Soil",
+    "cropName": "Tomato",
+    "profitability": "Medium"
+  },
+  {
+    "duration": "July to September",
+    "durationMonths": 3,
+    "months": ["July", "August", "September"],
+    "state": "Uttar Pradesh",
+    "soilType": "Sandy Loam Soil",
+    "cropName": "Wheat",
+    "profitability": "High"
+  },
+  {
+    "duration": "October to December",
+    "durationMonths": 3,
+    "months": ["October", "November", "December"],
+    "state": "Uttar Pradesh",
+    "soilType": "Clay Soil",
+    "cropName": "Rice",
+    "profitability": "High"
+  },
+  {
+    "duration": "January to March",
+    "durationMonths": 3,
+    "months": ["January", "February", "March"],
+    "state": "West Bengal",
+    "soilType": "Alluvial Soil",
+    "cropName": "Rice",
+    "profitability": "High"
+  },
+  {
+    "duration": "April to June",
+    "durationMonths": 3,
+    "months": ["April", "May", "June"],
+    "state": "West Bengal",
+    "soilType": "Clay Soil",
+    "cropName": "Jute",
+    "profitability": "Medium"
+  },
+  {
+    "duration": "July to September",
+    "durationMonths": 3,
+    "months": ["July", "August", "September"],
+    "state": "West Bengal",
+    "soilType": "Red Soil",
+    "cropName": "Tomato",
+    "profitability": "High"
+  },
+  {
+    "duration": "October to December",
+    "durationMonths": 3,
+    "months": ["October", "November", "December"],
+    "state": "Haryana",
+    "soilType": "Alluvial Soil",
+    "cropName": "Wheat",
+    "profitability": "High"
+  },
+  {
+    "duration": "January to March",
+    "durationMonths": 3,
+    "months": ["January", "February", "March"],
+    "state": "Haryana",
+    "soilType": "Clay Soil",
+    "cropName": "Rice",
+    "profitability": "Medium"
+  },
+  {
+    "duration": "April to June",
+    "durationMonths": 3,
+    "months": ["April", "May", "June"],
+    "state": "Haryana",
+    "soilType": "Red Soil",
+    "cropName": "Tomato",
+    "profitability": "High"
+  },
+  {
+    "duration": "July to September",
+    "durationMonths": 3,
+    "months": ["July", "August", "September"],
+    "state": "Kerala",
+    "soilType": "Laterite Soil",
+    "cropName": "Coconut",
+    "profitability": "High"
+  },
+  {
+    "duration": "October to December",
+    "durationMonths": 3,
+    "months": ["October", "November", "December"],
+    "state": "Kerala",
+    "soilType": "Red Soil",
+    "cropName": "Pepper",
+    "profitability": "Medium"
+  },
+  {
+    "duration": "January to March",
+    "durationMonths": 3,
+    "months": ["January", "February", "March"],
+    "state": "Kerala",
+    "soilType": "Clay Soil",
+    "cropName": "Rice",
+    "profitability": "High"
+  },
+  {
+    "duration": "April to June",
+    "durationMonths": 3,
+    "months": ["April", "May", "June"],
+    "state": "Assam",
+    "soilType": "Alluvial Soil",
+    "cropName": "Tea",
+    "profitability": "High"
+  },
+  {
+    "duration": "July to September",
+    "durationMonths": 3,
+    "months": ["July", "August", "September"],
+    "state": "Assam",
+    "soilType": "Red Soil",
+    "cropName": "Rice",
+    "profitability": "Medium"
+  },
+  {
+    "duration": "October to December",
+    "durationMonths": 3,
+    "months": ["October", "November", "December"],
+    "state": "Assam",
+    "soilType": "Clay Soil",
+    "cropName": "Jute",
+    "profitability": "High"
+  },
+  {
+    "duration": "January to March",
+    "durationMonths": 3,
+    "months": ["January", "February", "March"],
+    "state": "Punjab",
+    "soilType": "Alluvial Soil",
+    "cropName": "Wheat",
+    "profitability": "High"
+  },
+  {
+    "duration": "April to June",
+    "durationMonths": 3,
+    "months": ["April", "May", "June"],
+    "state": "Punjab",
+    "soilType": "Clay Soil",
+    "cropName": "Rice",
+    "profitability": "Medium"
+  },
+  {
+    "duration": "July to September",
+    "durationMonths": 3,
+    "months": ["July", "August", "September"],
+    "state": "Punjab",
+    "soilType": "Red Soil",
+    "cropName": "Tomato",
+    "profitability": "High"
+  },
+  {
+    "duration": "October to December",
+    "durationMonths": 3,
+    "months": ["October", "November", "December"],
+    "state": "Odisha",
+    "soilType": "Alluvial Soil",
+    "cropName": "Rice",
+    "profitability": "High"
+  },
+  {
+    "duration": "January to March",
+    "durationMonths": 3,
+    "months": ["January", "February", "March"],
+    "state": "Odisha",
+    "soilType": "Red Soil",
+    "cropName": "Groundnut",
+    "profitability": "Medium"
+  },
+  {
+    "duration": "April to June",
+    "durationMonths": 3,
+    "months": ["April", "May", "June"],
+    "state": "Odisha",
+    "soilType": "Clay Soil",
+    "cropName": "Jute",
+    "profitability": "High"
+  },
+  {
+    "duration": "July to September",
+    "durationMonths": 3,
+    "months": ["July", "August", "September"],
+    "state": "Uttarakhand",
+    "soilType": "Mountain Soil",
+    "cropName": "Tea",
+    "profitability": "High"
+  },
+  {
+    "duration": "October to December",
+    "durationMonths": 3,
+    "months": ["October", "November", "December"],
+    "state": "Uttarakhand",
+    "soilType": "Red Soil",
+    "cropName": "Potato",
+    "profitability": "Medium"
+  },
+  {
+    "duration": "January to March",
+    "durationMonths": 3,
+    "months": ["January", "February", "March"],
+    "state": "Uttarakhand",
+    "soilType": "Clay Soil",
+    "cropName": "Wheat",
+    "profitability": "High"
+  },
+  {
+    "duration": "April to June",
+    "durationMonths": 3,
+    "months": ["April", "May", "June"],
+    "state": "Jharkhand",
+    "soilType": "Red Soil",
+    "cropName": "Paddy",
+    "profitability": "Medium"
+  },
+  {
+    "duration": "July to September",
+    "durationMonths": 3,
+    "months": ["July", "August", "September"],
+    "state": "Jharkhand",
+    "soilType": "Clay Soil",
+    "cropName": "Rice",
+    "profitability": "High"
+  },
+  {
+    "duration": "October to December",
+    "durationMonths": 3,
+    "months": ["October", "November", "December"],
+    "state": "Jharkhand",
+    "soilType": "Alluvial Soil",
+    "cropName": "Tomato",
+    "profitability": "Medium"
+  },
+  {
+    "duration": "January to March",
+    "durationMonths": 3,
+    "months": ["January", "February", "March"],
+    "state": "Madhya Pradesh",
+    "soilType": "Black Soil",
+    "cropName": "Soybean",
+    "profitability": "High"
+  },
+  {
+    "duration": "April to June",
+    "durationMonths": 3,
+    "months": ["April", "May", "June"],
+    "state": "Madhya Pradesh",
+    "soilType": "Red Soil",
+    "cropName": "Groundnut",
+    "profitability": "Medium"
+  },
+    {
+    "duration": "April to June",
+    "durationMonths": 3,
+    "months": ["April", "May", "June"],
+    "state": "Uttar Pradesh",
+    "soilType": "Red Soil",
+    "cropName": "Tomato",
+    "profitability": "Medium"
+  },
+  {
+    "duration": "July to September",
+    "durationMonths": 3,
+    "months": ["July", "August", "September"],
+    "state": "Uttar Pradesh",
+    "soilType": "Sandy Loam Soil",
+    "cropName": "Wheat",
+    "profitability": "High"
+  },
+  {
+    "duration": "October to December",
+    "durationMonths": 3,
+    "months": ["October", "November", "December"],
+    "state": "Uttar Pradesh",
+    "soilType": "Clay Soil",
+    "cropName": "Rice",
+    "profitability": "High"
+  },
+  {
+    "duration": "January to March",
+    "durationMonths": 3,
+    "months": ["January", "February", "March"],
+    "state": "West Bengal",
+    "soilType": "Alluvial Soil",
+    "cropName": "Rice",
+    "profitability": "High"
+  },
+  {
+    "duration": "April to June",
+    "durationMonths": 3,
+    "months": ["April", "May", "June"],
+    "state": "West Bengal",
+    "soilType": "Clay Soil",
+    "cropName": "Jute",
+    "profitability": "Medium"
+  },
+  {
+    "duration": "July to September",
+    "durationMonths": 3,
+    "months": ["July", "August", "September"],
+    "state": "West Bengal",
+    "soilType": "Red Soil",
+    "cropName": "Tomato",
+    "profitability": "High"
+  },
+  {
+    "duration": "October to December",
+    "durationMonths": 3,
+    "months": ["October", "November", "December"],
+    "state": "Haryana",
+    "soilType": "Alluvial Soil",
+    "cropName": "Wheat",
+    "profitability": "High"
+  },
+  {
+    "duration": "January to March",
+    "durationMonths": 3,
+    "months": ["January", "February", "March"],
+    "state": "Haryana",
+    "soilType": "Clay Soil",
+    "cropName": "Rice",
+    "profitability": "Medium"
+  },
+  {
+    "duration": "April to June",
+    "durationMonths": 3,
+    "months": ["April", "May", "June"],
+    "state": "Haryana",
+    "soilType": "Red Soil",
+    "cropName": "Tomato",
+    "profitability": "High"
+  },
+  {
+    "duration": "July to September",
+    "durationMonths": 3,
+    "months": ["July", "August", "September"],
+    "state": "Kerala",
+    "soilType": "Laterite Soil",
+    "cropName": "Coconut",
+    "profitability": "High"
+  },
+  {
+    "duration": "October to December",
+    "durationMonths": 3,
+    "months": ["October", "November", "December"],
+    "state": "Kerala",
+    "soilType": "Red Soil",
+    "cropName": "Pepper",
+    "profitability": "Medium"
+  },
+  {
+    "duration": "January to March",
+    "durationMonths": 3,
+    "months": ["January", "February", "March"],
+    "state": "Kerala",
+    "soilType": "Clay Soil",
+    "cropName": "Rice",
+    "profitability": "High"
+  },
+  {
+    "duration": "April to June",
+    "durationMonths": 3,
+    "months": ["April", "May", "June"],
+    "state": "Assam",
+    "soilType": "Alluvial Soil",
+    "cropName": "Tea",
+    "profitability": "High"
+  },
+  {
+    "duration": "July to September",
+    "durationMonths": 3,
+    "months": ["July", "August", "September"],
+    "state": "Assam",
+    "soilType": "Red Soil",
+    "cropName": "Rice",
+    "profitability": "Medium"
+  },
+  {
+    "duration": "October to December",
+    "durationMonths": 3,
+    "months": ["October", "November", "December"],
+    "state": "Assam",
+    "soilType": "Clay Soil",
+    "cropName": "Jute",
+    "profitability": "High"
+  },
+  {
+    "duration": "January to March",
+    "durationMonths": 3,
+    "months": ["January", "February", "March"],
+    "state": "Punjab",
+    "soilType": "Alluvial Soil",
+    "cropName": "Wheat",
+    "profitability": "High"
+  },
+  {
+    "duration": "April to June",
+    "durationMonths": 3,
+    "months": ["April", "May", "June"],
+    "state": "Punjab",
+    "soilType": "Clay Soil",
+    "cropName": "Rice",
+    "profitability": "Medium"
+  },
+  {
+    "duration": "July to September",
+    "durationMonths": 3,
+    "months": ["July", "August", "September"],
+    "state": "Punjab",
+    "soilType": "Red Soil",
+    "cropName": "Tomato",
+    "profitability": "High"
+  },
+  {
+    "duration": "October to December",
+    "durationMonths": 3,
+    "months": ["October", "November", "December"],
+    "state": "Odisha",
+    "soilType": "Alluvial Soil",
+    "cropName": "Rice",
+    "profitability": "High"
+  },
+  {
+    "duration": "January to March",
+    "durationMonths": 3,
+    "months": ["January", "February", "March"],
+    "state": "Odisha",
+    "soilType": "Red Soil",
+    "cropName": "Groundnut",
+    "profitability": "Medium"
+  },
+  {
+    "duration": "April to June",
+    "durationMonths": 3,
+    "months": ["April", "May", "June"],
+    "state": "Odisha",
+    "soilType": "Clay Soil",
+    "cropName": "Jute",
+    "profitability": "High"
+  },
+  {
+    "duration": "July to September",
+    "durationMonths": 3,
+    "months": ["July", "August", "September"],
+    "state": "Uttarakhand",
+    "soilType": "Mountain Soil",
+    "cropName": "Tea",
+    "profitability": "High"
+  },
+  {
+    "duration": "October to December",
+    "durationMonths": 3,
+    "months": ["October", "November", "December"],
+    "state": "Uttarakhand",
+    "soilType": "Red Soil",
+    "cropName": "Potato",
+    "profitability": "Medium"
+  },
+  {
+    "duration": "January to March",
+    "durationMonths": 3,
+    "months": ["January", "February", "March"],
+    "state": "Uttarakhand",
+    "soilType": "Clay Soil",
+    "cropName": "Wheat",
+    "profitability": "High"
+  },
+  {
+    "duration": "April to June",
+    "durationMonths": 3,
+    "months": ["April", "May", "June"],
+    "state": "Jharkhand",
+    "soilType": "Red Soil",
+    "cropName": "Paddy",
+    "profitability": "Medium"
+  },
+  {
+    "duration": "July to September",
+    "durationMonths": 3,
+    "months": ["July", "August", "September"],
+    "state": "Jharkhand",
+    "soilType": "Clay Soil",
+    "cropName": "Rice",
+    "profitability": "High"
+  },
+  {
+    "duration": "October to December",
+    "durationMonths": 3,
+    "months": ["October", "November", "December"],
+    "state": "Jharkhand",
+    "soilType": "Alluvial Soil",
+    "cropName": "Tomato",
+    "profitability": "Medium"
+  },
+  {
+    "duration": "January to March",
+    "durationMonths": 3,
+    "months": ["January", "February", "March"],
+    "state": "Madhya Pradesh",
+    "soilType": "Black Soil",
+    "cropName": "Soybean",
+    "profitability": "High"
+  },
+  {
+    "duration": "April to June",
+    "durationMonths": 3,
+    "months": ["April", "May", "June"],
+    "state": "Madhya Pradesh",
+    "soilType": "Red Soil",
+    "cropName": "Groundnut",
+    "profitability": "Medium"
+  },
+    {
+    "duration": "October to December",
+    "durationMonths": 3,
+    "months": ["October", "November", "December"],
+    "state": "Tripura",
+    "soilType": "Laterite Soil",
+    "cropName": "Cashew",
+    "profitability": "Medium"
+  },
+  {
+    "duration": "January to March",
+    "durationMonths": 3,
+    "months": ["January", "February", "March"],
+    "state": "Tripura",
+    "soilType": "Clay Soil",
+    "cropName": "Rice",
+    "profitability": "High"
+  },
+  {
+    "duration": "April to June",
+    "durationMonths": 3,
+    "months": ["April", "May", "June"],
+    "state": "Mizoram",
+    "soilType": "Red Soil",
+    "cropName": "Bamboo",
+    "profitability": "Medium"
+  },
+  {
+    "duration": "July to September",
+    "durationMonths": 3,
+    "months": ["July", "August", "September"],
+    "state": "Mizoram",
+    "soilType": "Clay Soil",
+    "cropName": "Rice",
+    "profitability": "High"
+  },
+  {
+    "duration": "October to December",
+    "durationMonths": 3,
+    "months": ["October", "November", "December"],
+    "state": "Mizoram",
+    "soilType": "Alluvial Soil",
+    "cropName": "Tomato",
+    "profitability": "Medium"
+  },
+  {
+    "duration": "January to March",
+    "durationMonths": 3,
+    "months": ["January", "February", "March"],
+    "state": "Goa",
+    "soilType": "Laterite Soil",
+    "cropName": "Cashew",
+    "profitability": "High"
+  },
+  {
+    "duration": "April to June",
+    "durationMonths": 3,
+    "months": ["April", "May", "June"],
+    "state": "Goa",
+    "soilType": "Red Soil",
+    "cropName": "Coconut",
+    "profitability": "Medium"
+  },
+  {
+    "duration": "July to September",
+    "durationMonths": 3,
+    "months": ["July", "August", "September"],
+    "state": "Goa",
+    "soilType": "Clay Soil",
+    "cropName": "Rice",
+    "profitability": "High"
+  },
+  {
+    "duration": "October to December",
+    "durationMonths": 3,
+    "months": ["October", "November", "December"],
+    "state": "Andaman and Nicobar Islands",
+    "soilType": "Coastal Soil",
+    "cropName": "Coconut",
+    "profitability": "High"
+  },
+  {
+    "duration": "January to March",
+    "durationMonths": 3,
+    "months": ["January", "February", "March"],
+    "state": "Andaman and Nicobar Islands",
+    "soilType": "Clay Soil",
+    "cropName": "Rice",
+    "profitability": "Medium"
+  },
+  {
+    "duration": "April to June",
+    "durationMonths": 3,
+    "months": ["April", "May", "June"],
+    "state": "Andaman and Nicobar Islands",
+    "soilType": "Red Soil",
+    "cropName": "Banana",
+    "profitability": "High"
+  },
+  {
+    "duration": "July to September",
+    "durationMonths": 3,
+    "months": ["July", "August", "September"],
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "soilType": "Coastal Soil",
+    "cropName": "Mango",
+    "profitability": "High"
+  },
+  {
+    "duration": "October to December",
+    "durationMonths": 3,
+    "months": ["October", "November", "December"],
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "soilType": "Clay Soil",
+    "cropName": "Rice",
+    "profitability": "Medium"
+  },
+  {
+    "duration": "January to March",
+    "durationMonths": 3,
+    "months": ["January", "February", "March"],
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "soilType": "Red Soil",
+    "cropName": "Tomato",
+    "profitability": "High"
+  },
+  {
+    "duration": "April to June",
+    "durationMonths": 3,
+    "months": ["April", "May", "June"],
+    "state": "Lakshadweep",
+    "soilType": "Coral Soil",
+    "cropName": "Coconut",
+    "profitability": "High"
+  },
+  {
+    "duration": "July to September",
+    "durationMonths": 3,
+    "months": ["July", "August", "September"],
+    "state": "Lakshadweep",
+    "soilType": "Clay Soil",
+    "cropName": "Rice",
+    "profitability": "Medium"
+  },
+  {
+    "duration": "October to December",
+    "durationMonths": 3,
+    "months": ["October", "November", "December"],
+    "state": "Lakshadweep",
+    "soilType": "Red Soil",
+    "cropName": "Banana",
+    "profitability": "High"
+  },
+  {
+    "duration": "January to March",
+    "durationMonths": 3,
+    "months": ["January", "February", "March"],
+    "state": "Delhi",
+    "soilType": "Alluvial Soil",
+    "cropName": "Mustard",
+    "profitability": "Medium"
+  },
+  {
+    "duration": "April to June",
+    "durationMonths": 3,
+    "months": ["April", "May", "June"],
+    "state": "Delhi",
+    "soilType": "Clay Soil",
+    "cropName": "Rice",
+    "profitability": "High"
+  },
+  {
+    "duration": "July to September",
+    "durationMonths": 3,
+    "months": ["July", "August", "September"],
+    "state": "Delhi",
+    "soilType": "Red Soil",
+    "cropName": "Tomato",
+    "profitability": "Medium"
+  },
+  {
+    "duration": "October to December",
+    "durationMonths": 3,
+    "months": ["October", "November", "December"],
+    "state": "Puducherry",
+    "soilType": "Coastal Alluvial Soil",
+    "cropName": "Banana",
+    "profitability": "High"
+  },
+  {
+    "duration": "January to March",
+    "durationMonths": 3,
+    "months": ["January", "February", "March"],
+    "state": "Puducherry",
+    "soilType": "Red Soil",
+    "cropName": "Tomato",
+    "profitability": "Medium"
+  },
+  {
+    "duration": "April to June",
+    "durationMonths": 3,
+    "months": ["April", "May", "June"],
+    "state": "Puducherry",
+    "soilType": "Clay Soil",
+    "cropName": "Rice",
+    "profitability": "High"
+  },
+  {
+    "duration": "July to September",
+    "durationMonths": 3,
+    "months": ["July", "August", "September"],
+    "state": "Chandigarh",
+    "soilType": "Alluvial Soil",
+    "cropName": "Wheat",
+    "profitability": "High"
+  },
+  {
+    "duration": "October to December",
+    "durationMonths": 3,
+    "months": ["October", "November", "December"],
+    "state": "Chandigarh",
+    "soilType": "Clay Soil",
+    "cropName": "Rice",
+    "profitability": "Medium"
+  },
+  {
+    "duration": "January to March",
+    "durationMonths": 3,
+    "months": ["January", "February", "March"],
+    "state": "Chandigarh",
+    "soilType": "Red Soil",
+    "cropName": "Tomato",
+    "profitability": "High"
+  },
+  {
+    "duration": "April to June",
+    "durationMonths": 3,
+    "months": ["April", "May", "June"],
+    "state": "Jammu and Kashmir",
+    "soilType": "Mountain Soil",
+    "cropName": "Apple",
+    "profitability": "High"
+  },
+
+  {
+    "duration": "January to March",
+    "durationMonths": 3,
+    "months": ["January", "February", "March"],
+    "state": "Andhra Pradesh",
+    "soilType": "Red Soil",
+    "cropName": "Tomato",
+    "profitability": "High"
+  },
+  {
+    "duration": "April to September",
+    "durationMonths": 6,
+    "months": ["April", "May", "June", "July", "August", "September"],
+    "state": "Maharashtra",
+    "soilType": "Black Soil",
+    "cropName": "Cotton",
+    "profitability": "Medium"
+  },
+  {
+    "duration": "October to January",
+    "durationMonths": 4,
+    "months": ["October", "November", "December", "January"],
+    "state": "Punjab",
+    "soilType": "Alluvial Soil",
+    "cropName": "Wheat",
+    "profitability": "High"
+  },
+  {
+    "duration": "June to November",
+    "durationMonths": 5,
+    "months": ["June", "July", "August", "September", "October", "November"],
+    "state": "Tamil Nadu",
+    "soilType": "Laterite Soil",
+    "cropName": "Groundnut",
+    "profitability": "Medium"
+  },
+  {
+    "duration": "July to September",
+    "durationMonths": 3,
+    "months": ["July", "August", "September"],
+    "state": "West Bengal",
+    "soilType": "Clay Soil",
+    "cropName": "Rice",
+    "profitability": "High"
+  },
+  {
+    "duration": "February to September",
+    "durationMonths": 8,
+    "months": ["February", "March", "April", "May", "June", "July", "August", "September"],
+    "state": "Karnataka",
+    "soilType": "Red Soil",
+    "cropName": "Sugarcane",
+    "profitability": "High"
+  },
+  {
+    "duration": "November to December",
+    "durationMonths": 2,
+    "months": ["November", "December"],
+    "state": "Uttar Pradesh",
+    "soilType": "Alluvial Soil",
+    "cropName": "Potato",
+    "profitability": "Medium"
+  },
+  {
+    "duration": "January to March",
+    "durationMonths": 3,
+    "months": ["January", "February", "March"],
+    "state": "Rajasthan",
+    "soilType": "Sandy Soil",
+    "cropName": "Bajra",
+    "profitability": "Medium"
+  },
+  {
+    "duration": "April to June",
+    "durationMonths": 3,
+    "months": ["April", "May", "June"],
+    "state": "Gujarat",
+    "soilType": "Black Soil",
+    "cropName": "Groundnut",
+    "profitability": "High"
+  },
+  {
+    "duration": "July to September",
+    "durationMonths": 3,
+    "months": ["July", "August", "September"],
+    "state": "Kerala",
+    "soilType": "Laterite Soil",
+    "cropName": "Coconut",
+    "profitability": "High"
+  },
+  {
+    "duration": "October to December",
+    "durationMonths": 3,
+    "months": ["October", "November", "December"],
+    "state": "Bihar",
+    "soilType": "Alluvial Soil",
+    "cropName": "Wheat",
+    "profitability": "High"
+  },
+  {
+    "duration": "January to March",
+    "durationMonths": 3,
+    "months": ["January", "February", "March"],
+    "state": "Odisha",
+    "soilType": "Red Soil",
+    "cropName": "Rice",
+    "profitability": "Medium"
+  },
+  {
+    "duration": "April to July",
+    "durationMonths": 4,
+    "months": ["April", "May", "June", "July"],
+    "state": "Assam",
+    "soilType": "Alluvial Soil",
+    "cropName": "Tea",
+    "profitability": "High"
+  },
+  {
+    "duration": "August to November",
+    "durationMonths": 4,
+    "months": ["August", "September", "October", "November"],
+    "state": "Haryana",
+    "soilType": "Sandy Loam Soil",
+    "cropName": "Wheat",
+    "profitability": "High"
+  },
+  {
+    "duration": "December to February",
+    "durationMonths": 3,
+    "months": ["December", "January", "February"],
+    "state": "Himachal Pradesh",
+    "soilType": "Mountain Soil",
+    "cropName": "Apple",
+    "profitability": "High"
+  },
+  {
+    "duration": "March to June",
+    "durationMonths": 4,
+    "months": ["March", "April", "May", "June"],
+    "state": "Jharkhand",
+    "soilType": "Red Soil",
+    "cropName": "Paddy",
+    "profitability": "Medium"
+  },
+  {
+    "duration": "July to October",
+    "durationMonths": 4,
+    "months": ["July", "August", "September", "October"],
+    "state": "Madhya Pradesh",
+    "soilType": "Black Soil",
+    "cropName": "Soybean",
+    "profitability": "High"
+  },
+  {
+    "duration": "November to January",
+    "durationMonths": 3,
+    "months": ["November", "December", "January"],
+    "state": "Chhattisgarh",
+    "soilType": "Red Soil",
+    "cropName": "Wheat",
+    "profitability": "Medium"
+  },
+  {
+    "duration": "February to April",
+    "durationMonths": 3,
+    "months": ["February", "March", "April"],
+    "state": "Uttarakhand",
+    "soilType": "Mountain Soil",
+    "cropName": "Tea",
+    "profitability": "High"
+  },
+  {
+    "duration": "May to July",
+    "durationMonths": 3,
+    "months": ["May", "June", "July"],
+    "state": "Sikkim",
+    "soilType": "Mountain Soil",
+    "cropName": "Cardamom",
+    "profitability": "High"
+  },
+  {
+    "duration": "August to October",
+    "durationMonths": 3,
+    "months": ["August", "September", "October"],
+    "state": "Arunachal Pradesh",
+    "soilType": "Mountain Soil",
+    "cropName": "Oranges",
+    "profitability": "High"
+  },
+  {
+    "duration": "November to January",
+    "durationMonths": 3,
+    "months": ["November", "December", "January"],
+    "state": "Manipur",
+    "soilType": "Alluvial Soil",
+    "cropName": "Rice",
+    "profitability": "Medium"
+  },
+  {
+    "duration": "February to April",
+    "durationMonths": 3,
+    "months": ["February", "March", "April"],
+    "state": "Nagaland",
+    "soilType": "Alluvial Soil",
+    "cropName": "Pineapple",
+    "profitability": "High"
+  },
+  {
+    "duration": "May to July",
+    "durationMonths": 3,
+    "months": ["May", "June", "July"],
+    "state": "Meghalaya",
+    "soilType": "Laterite Soil",
+    "cropName": "Ginger",
+    "profitability": "High"
+  },
+  {
+    "duration": "August to October",
+    "durationMonths": 3,
+    "months": ["August", "September", "October"],
+    "state": "Tripura",
+    "soilType": "Alluvial Soil",
+    "cropName": "Rubber",
+    "profitability": "High"
+  },
+  {
+    "duration": "November to January",
+    "durationMonths": 3,
+    "months": ["November", "December", "January"],
+    "state": "Mizoram",
+    "soilType": "Red Soil",
+    "cropName": "Bamboo",
+    "profitability": "Medium"
+  },
+  {
+    "duration": "February to April",
+    "durationMonths": 3,
+    "months": ["February", "March", "April"],
+    "state": "Goa",
+    "soilType": "Laterite Soil",
+    "cropName": "Cashew",
+    "profitability": "High"
+  },
+  {
+    "duration": "May to July",
+    "durationMonths": 3,
+    "months": ["May", "June", "July"],
+    "state": "Andaman and Nicobar Islands",
+    "soilType": "Coastal Soil",
+    "cropName": "Coconut",
+    "profitability": "High"
+  },
+    {
+    "duration": "January to March",
+    "durationMonths": 3,
+    "months": ["January", "February", "March"],
+    "state": "Telangana",
+    "soilType": "Red Soil",
+    "cropName": "Chili",
+    "profitability": "High"
+  },
+  {
+    "duration": "April to June",
+    "durationMonths": 3,
+    "months": ["April", "May", "June"],
+    "state": "Puducherry",
+    "soilType": "Coastal Alluvial Soil",
+    "cropName": "Banana",
+    "profitability": "High"
+  },
+  {
+    "duration": "July to September",
+    "durationMonths": 3,
+    "months": ["July", "August", "September"],
+    "state": "Chandigarh",
+    "soilType": "Alluvial Soil",
+    "cropName": "Wheat",
+    "profitability": "High"
+  },
+  {
+    "duration": "October to December",
+    "durationMonths": 3,
+    "months": ["October", "November", "December"],
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "soilType": "Coastal Soil",
+    "cropName": "Mango",
+    "profitability": "Medium"
+  },
+  {
+    "duration": "January to March",
+    "durationMonths": 3,
+    "months": ["January", "February", "March"],
+    "state": "Lakshadweep",
+    "soilType": "Coral Soil",
+    "cropName": "Coconut",
+    "profitability": "High"
+  },
+  {
+    "duration": "April to June",
+    "durationMonths": 3,
+    "months": ["April", "May", "June"],
+    "state": "Delhi",
+    "soilType": "Alluvial Soil",
+    "cropName": "Mustard",
+    "profitability": "Medium"
+  },
+  {
+    "duration": "July to September",
+    "durationMonths": 3,
+    "months": ["July", "August", "September"],
+    "state": "Puducherry",
+    "soilType": "Coastal Alluvial Soil",
+    "cropName": "Banana",
+    "profitability": "High"
+  },
+  {
+    "duration": "October to December",
+    "durationMonths": 3,
+    "months": ["October", "November", "December"],
+    "state": "Jammu and Kashmir",
+    "soilType": "Mountain Soil",
+    "cropName": "Apple",
+    "profitability": "High"
+  },
+  {
+    "duration": "January to March",
+    "durationMonths": 3,
+    "months": ["January", "February", "March"],
+    "state": "Telangana",
+    "soilType": "Red Soil",
+    "cropName": "Chili",
+    "profitability": "High"
+  },
+  {
+    "duration": "April to June",
+    "durationMonths": 3,
+    "months": ["April", "May", "June"],
+    "state": "Puducherry",
+    "soilType": "Coastal Alluvial Soil",
+    "cropName": "Banana",
+    "profitability": "High"
+  },
+  {
+    "duration": "July to September",
+    "durationMonths": 3,
+    "months": ["July", "August", "September"],
+    "state": "Chandigarh",
+    "soilType": "Alluvial Soil",
+    "cropName": "Wheat",
+    "profitability": "High"
+  },
+  {
+    "duration": "October to December",
+    "durationMonths": 3,
+    "months": ["October", "November", "December"],
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "soilType": "Coastal Soil",
+    "cropName": "Mango",
+    "profitability": "Medium"
+  },
+  {
+    "duration": "January to March",
+    "durationMonths": 3,
+    "months": ["January", "February", "March"],
+    "state": "Lakshadweep",
+    "soilType": "Coral Soil",
+    "cropName": "Coconut",
+    "profitability": "High"
+  },
+  {
+    "duration": "April to June",
+    "durationMonths": 3,
+    "months": ["April", "May", "June"],
+    "state": "Delhi",
+    "soilType": "Alluvial Soil",
+    "cropName": "Mustard",
+    "profitability": "Medium"
+  },
+  {
+    "duration": "July to September",
+    "durationMonths": 3,
+    "months": ["July", "August", "September"],
+    "state": "Puducherry",
+    "soilType": "Coastal Alluvial Soil",
+    "cropName": "Banana",
+    "profitability": "High"
+  },
+  {
+    "duration": "October to December",
+    "durationMonths": 3,
+    "months": ["October", "November", "December"],
+    "state": "Jammu and Kashmir",
+    "soilType": "Mountain Soil",
+    "cropName": "Apple",
+    "profitability": "High"
+  },
+  {
+    "duration": "January to March",
+    "durationMonths": 3,
+    "months": ["January", "February", "March"],
+    "state": "Telangana",
+    "soilType": "Red Soil",
+    "cropName": "Chili",
+    "profitability": "High"
+  },
+  {
+    "duration": "April to June",
+    "durationMonths": 3,
+    "months": ["April", "May", "June"],
+    "state": "Puducherry",
+    "soilType": "Coastal Alluvial Soil",
+    "cropName": "Banana",
+    "profitability": "High"
+  },
+  {
+    "duration": "July to September",
+    "durationMonths": 3,
+    "months": ["July", "August", "September"],
+    "state": "Chandigarh",
+    "soilType": "Alluvial Soil",
+    "cropName": "Wheat",
+    "profitability": "High"
+  },
+  {
+    "duration": "October to December",
+    "durationMonths": 3,
+    "months": ["October", "November", "December"],
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "soilType": "Coastal Soil",
+    "cropName": "Mango",
+    "profitability": "Medium"
+  },
+  {
+    "duration": "January to March",
+    "durationMonths": 3,
+    "months": ["January", "February", "March"],
+    "state": "Lakshadweep",
+    "soilType": "Coral Soil",
+    "cropName": "Coconut",
+    "profitability": "High"
+  },
+  {
+    "duration": "April to June",
+    "durationMonths": 3,
+    "months": ["April", "May", "June"],
+    "state": "Delhi",
+    "soilType": "Alluvial Soil",
+    "cropName": "Mustard",
+    "profitability": "Medium"
+  },
+  {
+    "duration": "July to September",
+    "durationMonths": 3,
+    "months": ["July", "August", "September"],
+    "state": "Puducherry",
+    "soilType": "Coastal Alluvial Soil",
+    "cropName": "Banana",
+    "profitability": "High"
+  },
+  {
+    "duration": "October to December",
+    "durationMonths": 3,
+    "months": ["October", "November", "December"],
+    "state": "Jammu and Kashmir",
+    "soilType": "Mountain Soil",
+    "cropName": "Apple",
+    "profitability": "High"
+  }
+]
+
